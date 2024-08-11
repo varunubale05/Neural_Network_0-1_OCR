@@ -1,5 +1,5 @@
 # Neural_Network_0-1_OCR
-This was a workshop conducted by IEEE SIES GST, focuses on understanding the core principle of Machine Learning.Here we covered the concepts of basic maths 
+This was a workshop conducted by IEEE SIES GST, focuses on understanding the core principle of Machine Learning.
 
 ## Lets start with computing output of a single neuron. the formula goes as:
 
